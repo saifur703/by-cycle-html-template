@@ -1,0 +1,36 @@
+@font-face {
+  font-family: 'Maax-Regular';
+  src: url('Maax-Regular.eot');
+  src: url('Maax-Regular.eot?#iefix') format('embedded-opentype'),
+    url('Maax-Regular.svg#Maax-Regular') format('svg'),
+    url('Maax-Regular.ttf') format('truetype'),
+    url('Maax-Regular.woff') format('woff'),
+    url('Maax-Regular.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+}
+
+
+@font-face {
+  font-family: 'Maax-Medium';
+  src: url('Maax-Medium.eot');
+  src: url('Maax-Medium.eot?#iefix') format('embedded-opentype'),
+    url('Maax-Medium.svg#Maax-Medium') format('svg'),
+    url('Maax-Medium.ttf') format('truetype'),
+    url('Maax-Medium.woff') format('woff'),
+    url('Maax-Medium.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Maax-Bold';
+  src: url('Maax-Bold.eot');
+  src: url('Maax-Bold.eot?#iefix') format('embedded-opentype'),
+    url('Maax-Bold.svg#Maax-Bold') format('svg'),
+    url('Maax-Bold.ttf') format('truetype'),
+    url('Maax-Bold.woff') format('woff'),
+    url('Maax-Bold.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+}
